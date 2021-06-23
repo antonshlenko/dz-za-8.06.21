@@ -1,0 +1,9 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\К116\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\К116\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(39,25): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\К116\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(40,7): warning C4552: "%": результат выражения не используется
+  ConsoleApplication8.vcxproj -> C:\Users\К116\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
